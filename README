@@ -1,0 +1,15 @@
+Google Calendar Trends
+
+This is a google apps script example created by Josh Calahan and Brian
+Pittman at the Mtn View Apps Script Hackathon on September 23, 2010.
+
+To try it out you'll need to create a Google Docs spreadsheet, go to tools,
+and paste in the contents of calendarTrends.js by navigating to Tools > Script
+Editor. Then go to Calendar Trends > Refresh and the script will populate
+cells in the Data sheet of your spreadsheet with calendar trends data.
+
+Once you have the data in the spreadsheet, you can easily create charts to
+visualize it however you like.
+
+Currently the script is hardcoded to pull in one year's worth of data from
+your default calendar.
